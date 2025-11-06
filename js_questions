@@ -1,0 +1,18 @@
+🧩 String + split
+Split the string "apple,banana,grape" into an array.
+Count how many words are in the string "I love JavaScript coding".
+Get the first word from "Learn JS daily" using split().
+Convert "hello world" into ["hello", "world"].
+Given "a-b-c-d", convert it into ["a","b","c","d"] using split('-').
+🧩 Array + join
+Join ["apple", "banana", "cherry"] into one string separated by commas.
+Join ["Hello", "World"] into "Hello World".
+Given ["1", "2", "3"], join them using "-" to get "1-2-3".
+Take ["Hi", "there", "JS"] and join using space to make a sentence.
+🧩 reverse + map + loop + if-else
+Reverse the array [1, 2, 3, 4, 5].
+Given ["a", "b", "c"], use reverse() to get ["c", "b", "a"].
+Use map() to double each number in [2, 4, 6] → [4, 8, 12].
+Use a for loop to count how many numbers are greater than 10 in [5, 12, 8, 20, 3].
+Use map() to convert ["one", "two", "three"] into uppercase.
+Use a for loop and if-else to print whether each number in [1, 2, 3, 4, 5] is even or odd.
