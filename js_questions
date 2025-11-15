@@ -16,3 +16,86 @@ Use map() to double each number in [2, 4, 6] → [4, 8, 12].
 Use a for loop to count how many numbers are greater than 10 in [5, 12, 8, 20, 3].
 Use map() to convert ["one", "two", "three"] into uppercase.
 Use a for loop and if-else to print whether each number in [1, 2, 3, 4, 5] is even or odd.
+
+
+
+Task 1 – Count Words in a Sentence
+Write a program to count how many words are in this sentence:
+"JavaScript is a powerful programming language"
+
+Expected Output: 6
+
+Task 2 – Find All Words Containing 'a'
+Given an array:
+["apple", "banana", "kiwi", "grapes", "mango"]
+Display only the words that contain the letter 'a'.
+
+Expected Output: ["apple", "banana", "grapes", "mango"]
+
+Task 3 – Title Case Conversion
+Convert "welcome to javascript class" into "Welcome To Javascript Class".
+
+Expected Output: Welcome To Javascript Class
+
+Task 4 – Count a Specific Letter
+Count how many times the letter "a" appears in the word "banana".
+
+
+Task 5 – Reverse Each Word
+Reverse each word in this sentence:
+"I love JavaScript"
+Expected Output: I evol tpircSavaJ
+
+
+Task 6 – Filter Words by Length
+Display all words having more than 4 letters from this array:
+["code", "developer", "web", "frontend", "ui"]
+Expected Output: ["developer", "frontend"]
+
+Task 7 – Replace a Word Manually
+Without using replace(), change "I like Java" to "I like JavaScript".
+
+Expected Output: "I like JavaScript"
+
+Task 8 – Check if a Sentence Contains a Word (Case-insensitive)
+Input: "I Am Learning React"
+Check if it contains the word "react"
+
+Expected Output: true
+
+Task 9 – Shorten a Sentence
+Take "JavaScript is the best language" and display only the first 3 words.
+
+Expected Output: JavaScript is the
+
+Task 10 – Reverse Word Order
+Reverse the order of words in "Coding is really fun".
+Expected Output: fun really is Coding
+ 
+
+Task 11 – Find Longest Word
+From "React is a frontend library", find the longest word.
+
+Expected Output: frontend
+
+Task 12 – Filter & Uppercase Combined
+From ["html", "css", "javascript", "react", "node"],
+show only words longer than 4 letters and convert them to uppercase.
+
+Expected Output: ["JAVASCRIPT", "REACT"]
+
+Task 13 – Find Index of Word
+Find the position of "react" in the array:
+["html", "css", "javascript", "react", "node"]
+Expected Output: 3
+
+Task 14 – Format Sentence Properly
+Input: " javascript IS fun "
+Trim spaces and make it "Javascript is fun" 
+
+Expected Output: Javascript is fun
+
+Task 15 – Create Secret Message
+Convert "HELLO WORLD" → "DLROW OLLEH" (reverse and keep uppercase).
+
+Expected Output: DLROW OLLEH
